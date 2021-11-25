@@ -158,3 +158,9 @@ Emoji:
     Markup : Code appears between colons :EMOJICODE:
 
 :mask:
+
+## Burussakorn Ruangon ##
+    Nickname: Korn
+    Age: 20
+    Faculty: CAMT
+    Student ID: 632115028
